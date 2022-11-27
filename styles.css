@@ -1,0 +1,86 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+   
+
+    /* identical to box height */
+
+    letter-spacing: 0.875px;
+
+    color: #17233D;
+    cursor: pointer;
+    margin-top: 46px;
+    margin-left: 35px;
+}
+
+.button {
+    width: 124px;
+    height: 51px;    
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: 1px;
+
+    color: #FFFFFF;
+    margin-left: 35px;
+    margin-top: 45px;
+}
+
+section {
+    display: inline-block;
+    margin-left: 96.83px;
+}
+
+img {
+    margin-left: 100px;
+    display: inline-block;
+    margin: 163px 0px 50px 123px;
+}
+h1 {
+    width: 582px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    /* or 132% */
+
+    letter-spacing: 0.596154px;
+
+    color: #161A49;
+}
+p {
+    width: 493px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    /* or 183% */
+
+    letter-spacing: 0.5px;
+
+    color: #4B505A;
+}
+.link-bottom {
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    letter-spacing: 1px;
+
+    color: #6FBF44;
+}
